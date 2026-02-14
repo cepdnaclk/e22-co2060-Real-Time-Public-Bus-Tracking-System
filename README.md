@@ -6,9 +6,9 @@ In Sri Lanka, public transport passengers face significant uncertainty and long 
 
 Why It Matters
 
-Saves Time: Reduces unnecessary waiting at bus stops.
-Improves Trust: Provides a reliable way to know exactly where a bus is.
-Smart Initiatives: Supports modern, smart transportation goals for the city.
+*Saves Time: Reduces unnecessary waiting at bus stops.
+*Improves Trust: Provides a reliable way to know exactly where a bus is.
+*Smart Initiatives: Supports modern, smart transportation goals for the city.
 
 ---
 
