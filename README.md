@@ -4,10 +4,12 @@ Developed by **Team Inferno**.
 📖 Overview
 In Sri Lanka, public transport passengers face significant uncertainty and long waiting times due to unreliable bus locations and inaccurate printed timetables. The **Real-Time Public Bus Tracking System** is a mobile-based solution designed to provide live tracking and map-based visualization to reduce commuter frustration and save time.
 
-Why It Matters
+### Why It Matters
 
 *Saves Time: Reduces unnecessary waiting at bus stops.
+
 *Improves Trust: Provides a reliable way to know exactly where a bus is.
+
 *Smart Initiatives: Supports modern, smart transportation goals for the city.
 
 ---
